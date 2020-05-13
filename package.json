@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "support wgr hdwallet ",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/skyclean906/wgr-hd-keyring.git"
+  },
   "scripts": {
     "test": "mocha --require test/index.js"
   },
